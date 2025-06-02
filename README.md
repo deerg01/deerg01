@@ -1,10 +1,12 @@
 ## 恥ずかしながらもプログラマーやってます✨
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deerg01&show_icons=true&theme=ambient_gradient)
+
 <!--
 **deerg01/deerg01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+나중에 조금 더 작업이 진행되면 올릴 깃허브 스테이터스
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deerg01&show_icons=true&theme=ambient_gradient)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
