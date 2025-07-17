@@ -1,5 +1,6 @@
 ## 将来は天才プログラマーになりたい✨
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deerg01&layout=compact)
 
 <!--
 **deerg01/deerg01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
