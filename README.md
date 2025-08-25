@@ -2,6 +2,12 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deerg01&layout=compact)
 
+### Tech Stack
+<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/></a>
+
+
+
 <!--
 **deerg01/deerg01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
